@@ -1,0 +1,5 @@
+ noir : #000000;
+
+ gris : #A7A7A7;
+
+ blanc: #FFFFFF;
